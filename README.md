@@ -1,5 +1,6 @@
 # KPermission
-a lib for android permissions request
+a lib for android permissions request.
+one line code to request android permissions.
 
 ## How to use?
 
