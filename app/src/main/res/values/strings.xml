@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">KPermission</string>
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="open_fragment">Open Fragment</string>
+    <string name="open_activity">Open Activity</string>
+</resources>
