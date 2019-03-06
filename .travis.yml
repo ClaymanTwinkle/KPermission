@@ -4,6 +4,7 @@ android:
   - build-tools-28.0.3
   - android-28
   - extra
+  - sys-img-armeabi-v7a-android-21
 
 env:
   global:
