@@ -1,4 +1,10 @@
-language: ruby
-rvm:
-- 2.2
-- jruby
+language: android
+android:
+  components:
+  - platform-tools
+  - tools
+  - build-tools-28.0.0
+  - android-28
+  - extra
+before_script:
+- chmod +x gradlew
