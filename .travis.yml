@@ -1,5 +1,8 @@
 language: android
 sudo: false
+env:
+  global:
+  - ANDROID_ABI=google_apis/armeabi-v7a
 android:
   components:
   - build-tools-28.0.3
