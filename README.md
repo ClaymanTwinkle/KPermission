@@ -1,5 +1,6 @@
 # KPermission
 [![Build Status](https://travis-ci.org/ClaymanTwinkle/KPermission.svg?branch=master)](https://travis-ci.org/ClaymanTwinkle/KPermission)
+[![Download](https://api.bintray.com/packages/claymantwinkle/maven/kpermission/images/download.svg?version=1.0.0) ](https://bintray.com/claymantwinkle/maven/kpermission/1.0.0/link)
 [![License](https://img.shields.io/badge/license-Apache%202-blue.svg)](https://www.apache.org/licenses/LICENSE-2.0)
 
 a lib for android permissions request.
