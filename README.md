@@ -9,6 +9,12 @@ one line code to request android permissions.
 
 ## How to use?
 
+```gradle
+dependencies {
+    implementation 'com.kesar:kpermission:1.0.0'
+}
+```
+
 ```java
 Activity that = this; // or fragment
 
